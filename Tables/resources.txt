@@ -1,0 +1,9 @@
+https://www.kaggle.com/ektanegi/spotifydata-19212020
+
+https://www.kaggle.com/siropo/spotify-multigenre-playlists-data
+
+https://datasetsearch.research.google.com/search?query=music&docid=L2cvMTFubmxndGsxMA%3D%3D
+
+https://www.kaggle.com/ironicninja/icm-problem-d?select=music_genre.csv
+
+https://www.kaggle.com/pavansanagapati/spotify-music-data
